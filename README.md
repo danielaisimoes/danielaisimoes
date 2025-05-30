@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello! I'm Daniela Simões! 👋  
 
-<!--
-**danielaisimoes/danielaisimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻 About me
+- I'm 32 years old and I'm changing my career from customer service to technology.
+- Systems Analysis and Development Student
+- Exploring Quality Assurance area
+- Seeking to improve my skills with projects and challenges 
 
-Here are some ideas to get you started:
+## ✅ Skills
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 I'm learning about
+- Fundamentals of quality and software development;
+- Testing in:
+    - Java projects;
+    - Node.js with TypeScript;
+    - .NET projects;
+    - Front-End applications;
+    - Native apps (Android and IOS).
